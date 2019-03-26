@@ -1,0 +1,29 @@
+H1{
+        font-family: 'Diplomata', cursive;
+        COLOR:red;
+}
+
+h2{
+    font-family: 'Abril Fatface', cursive;
+    color:MediumSpringGreen;
+}
+ 
+body{
+     background-color:RoyalBlue;
+ }
+  
+li{
+    color:FireBrick  ;
+    font-family: 'Audiowide', cursive;
+}
+
+
+img {
+     width:110%;
+     border:10px ridge green;
+            }
+body {
+     background-color:orange;
+     background-image: url("https://i.pinimg.com/originals/97/fc/bf/97fcbfd754336ef5239c7427be1b4e15.jpg");
+
+}
